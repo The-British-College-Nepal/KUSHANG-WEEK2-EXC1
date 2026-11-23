@@ -15,6 +15,7 @@ public class Driver {
         System.out.println("==================================================");
 
         // --- Demonstration 1: Polymorphism using the Counter Interface Type ---
+
         // Note: It is completely valid to declare wp as type Counter!
         // This programs to the interface rather than the concrete implementation.
         Counter wp = new WordProcessor();

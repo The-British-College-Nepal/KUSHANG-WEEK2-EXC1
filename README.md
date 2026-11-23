@@ -47,7 +47,7 @@ git branch
 ```
 
 ```
-  main
+  main 
 * feature/step1-counter
 ```
 
